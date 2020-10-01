@@ -1,41 +1,288 @@
-2020-09-29 | 11:11:57.428 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 8860 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
-2020-09-29 | 11:11:57.433 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
-2020-09-29 | 11:11:57.477 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2020-09-29 | 11:11:57.477 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2020-09-29 | 11:11:57.947 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
-2020-09-29 | 11:11:57.959 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
-2020-09-29 | 11:11:57.960 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
-2020-09-29 | 11:11:58.031 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
-2020-09-29 | 11:11:58.031 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 554 ms
-2020-09-29 | 11:11:58.062 | [] | ERROR | LocalFileService               | (    34) | Cannot get path to files
-2020-09-29 | 11:11:58.138 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
-2020-09-29 | 11:11:58.249 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
-2020-09-29 | 11:11:58.274 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path ''
-2020-09-29 | 11:11:58.282 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 1.082 seconds (JVM running for 1.598)
-2020-09-29 | 11:52:36.961 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9840 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
-2020-09-29 | 11:52:36.963 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
-2020-09-29 | 11:52:36.992 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2020-09-29 | 11:52:36.993 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2020-09-29 | 11:52:37.409 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
-2020-09-29 | 11:52:37.414 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
-2020-09-29 | 11:52:37.414 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
-2020-09-29 | 11:52:37.469 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
-2020-09-29 | 11:52:37.469 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 476 ms
-2020-09-29 | 11:52:37.560 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
-2020-09-29 | 11:52:37.625 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
-2020-09-29 | 11:52:37.650 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path ''
-2020-09-29 | 11:52:37.657 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.871 seconds (JVM running for 1.257)
-2020-09-29 | 11:53:24.849 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 10616 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
-2020-09-29 | 11:53:24.851 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
-2020-09-29 | 11:53:24.880 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2020-09-29 | 11:53:24.880 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2020-09-29 | 11:53:25.295 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
-2020-09-29 | 11:53:25.298 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
-2020-09-29 | 11:53:25.299 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
-2020-09-29 | 11:53:25.352 | [] |  INFO | [/]                            | (   173) | Initializing Spring embedded WebApplicationContext
-2020-09-29 | 11:53:25.353 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 473 ms
-2020-09-29 | 11:53:25.377 | [] |  INFO | LocalFileService               | (    49) | Try to create directory: D:\Programowanie\Applications\storage-app\files
-2020-09-29 | 11:53:25.442 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
-2020-09-29 | 11:53:25.512 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
-2020-09-29 | 11:53:25.538 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path ''
-2020-09-29 | 11:53:25.545 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.878 seconds (JVM running for 1.237)
+2020-09-30 | 11:55:55.340 | [] |  INFO | LocalFileService               | (   102) | Try to get all files
+2020-09-30 | 12:40:15.771 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 17044 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 12:40:15.773 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 12:40:15.804 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 12:40:15.805 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 12:40:16.252 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 12:40:16.261 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 12:40:16.261 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 12:40:16.313 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 12:40:16.314 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 509 ms
+2020-09-30 | 12:40:16.408 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 12:40:16.483 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 12:40:16.504 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 12:40:16.511 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.917 seconds (JVM running for 1.312)
+2020-09-30 | 12:40:19.386 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 12:40:19.387 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 12:40:19.390 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 3 ms
+2020-09-30 | 12:40:19.399 | [] |  INFO | LocalFileService               | (   103) | Try to get all files
+2020-09-30 | 12:42:00.100 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9404 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 12:42:00.103 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 12:42:00.131 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 12:42:00.132 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 12:42:00.639 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 12:42:00.648 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 12:42:00.649 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 12:42:00.701 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 12:42:00.702 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 570 ms
+2020-09-30 | 12:42:00.791 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 12:42:00.863 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 12:42:00.886 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 12:42:00.893 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.968 seconds (JVM running for 1.339)
+2020-09-30 | 12:42:34.067 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 12:42:34.068 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 12:42:34.071 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 3 ms
+2020-09-30 | 12:42:39.517 | [] |  INFO | LocalFileService               | (   103) | Try to get all files
+2020-09-30 | 14:05:54.657 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 10764 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:05:54.660 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:05:54.697 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:05:54.698 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:05:54.921 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:05:54.960 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9404 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:05:54.961 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:05:55.074 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:05:55.075 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:05:55.075 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:05:55.089 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:05:55.090 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 128 ms
+2020-09-30 | 14:05:55.117 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:05:55.143 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:05:55.149 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:05:55.152 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.208 seconds (JVM running for 5035.597)
+2020-09-30 | 14:05:55.153 | [] |  INFO | ConditionEvaluationDeltaLoggingListener | (    63) | Condition evaluation unchanged
+2020-09-30 | 14:05:55.215 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:05:55.225 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:05:55.226 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:05:55.282 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:05:55.282 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 584 ms
+2020-09-30 | 14:05:55.381 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:05:55.451 | [] |  WARN | OptionalLiveReloadServer       | (    61) | Unable to start LiveReload server
+2020-09-30 | 14:05:55.468 | [] |  WARN | AnnotationConfigServletWebServerApplicationContext | (   559) | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-09-30 | 14:05:55.469 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:05:55.470 | [] |  INFO | StandardService                | (   173) | Stopping service [Tomcat]
+2020-09-30 | 14:05:55.481 | [] |  INFO | ConditionEvaluationReportLoggingListener | (   136) | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-30 | 14:05:55.484 | [] | ERROR | LoggingFailureAnalysisReporter | (    40) | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-09-30 | 14:06:06.544 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:06:06.545 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:06:06.546 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 1 ms
+2020-09-30 | 14:06:06.546 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:06:07.364 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:06:12.354 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 11200 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:06:12.357 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:06:12.393 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:06:12.394 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:06:12.646 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:06:12.684 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9404 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:06:12.685 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:06:12.771 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:06:12.772 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:06:12.772 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:06:12.785 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:06:12.785 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 99 ms
+2020-09-30 | 14:06:12.819 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:06:12.838 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:06:12.844 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:06:12.846 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.176 seconds (JVM running for 5053.293)
+2020-09-30 | 14:06:12.847 | [] |  INFO | ConditionEvaluationDeltaLoggingListener | (    63) | Condition evaluation unchanged
+2020-09-30 | 14:06:12.907 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:06:12.918 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:06:12.918 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:06:12.972 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:06:12.972 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 578 ms
+2020-09-30 | 14:06:13.057 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:06:13.125 | [] |  WARN | OptionalLiveReloadServer       | (    61) | Unable to start LiveReload server
+2020-09-30 | 14:06:13.140 | [] |  WARN | AnnotationConfigServletWebServerApplicationContext | (   559) | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-09-30 | 14:06:13.141 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:06:13.143 | [] |  INFO | StandardService                | (   173) | Stopping service [Tomcat]
+2020-09-30 | 14:06:13.150 | [] |  INFO | ConditionEvaluationReportLoggingListener | (   136) | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-30 | 14:06:13.151 | [] | ERROR | LoggingFailureAnalysisReporter | (    40) | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-09-30 | 14:07:14.659 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:07:14.660 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:07:14.661 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 1 ms
+2020-09-30 | 14:07:14.662 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:07:22.945 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 16416 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:07:22.947 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:07:22.979 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:07:22.980 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:07:23.429 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:07:23.439 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:07:23.440 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:07:23.484 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:07:23.501 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:07:23.502 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 521 ms
+2020-09-30 | 14:07:23.531 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9404 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:07:23.531 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:07:23.617 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:07:23.626 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:07:23.627 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:07:23.627 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:07:23.641 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:07:23.641 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 108 ms
+2020-09-30 | 14:07:23.663 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:07:23.681 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:07:23.687 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:07:23.689 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.179 seconds (JVM running for 5124.135)
+2020-09-30 | 14:07:23.690 | [] |  INFO | ConditionEvaluationDeltaLoggingListener | (    63) | Condition evaluation unchanged
+2020-09-30 | 14:07:23.698 | [] |  WARN | OptionalLiveReloadServer       | (    61) | Unable to start LiveReload server
+2020-09-30 | 14:07:23.714 | [] |  WARN | AnnotationConfigServletWebServerApplicationContext | (   559) | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-09-30 | 14:07:23.715 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:07:23.716 | [] |  INFO | StandardService                | (   173) | Stopping service [Tomcat]
+2020-09-30 | 14:07:23.724 | [] |  INFO | ConditionEvaluationReportLoggingListener | (   136) | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-30 | 14:07:23.726 | [] | ERROR | LoggingFailureAnalysisReporter | (    40) | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-09-30 | 14:10:01.056 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:10:01.057 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:10:01.058 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 1 ms
+2020-09-30 | 14:10:07.849 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:10:08.439 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:10:14.585 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:10:14.632 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 9404 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:10:14.632 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:10:14.749 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:10:14.749 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:10:14.749 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:10:14.763 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:10:14.763 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 129 ms
+2020-09-30 | 14:10:14.769 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 16536 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:10:14.772 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:10:14.790 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:10:14.806 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:10:14.806 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:10:14.811 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:10:14.818 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:10:14.820 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.206 seconds (JVM running for 5295.267)
+2020-09-30 | 14:10:14.821 | [] |  INFO | ConditionEvaluationDeltaLoggingListener | (    63) | Condition evaluation unchanged
+2020-09-30 | 14:10:15.277 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:10:15.283 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:10:15.283 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:10:15.329 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:10:15.329 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 523 ms
+2020-09-30 | 14:10:15.424 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:10:15.513 | [] |  WARN | OptionalLiveReloadServer       | (    61) | Unable to start LiveReload server
+2020-09-30 | 14:10:15.529 | [] |  WARN | AnnotationConfigServletWebServerApplicationContext | (   559) | Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2020-09-30 | 14:10:15.530 | [] |  INFO | ThreadPoolTaskExecutor         | (   218) | Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:10:15.531 | [] |  INFO | StandardService                | (   173) | Stopping service [Tomcat]
+2020-09-30 | 14:10:15.538 | [] |  INFO | ConditionEvaluationReportLoggingListener | (   136) | 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-30 | 14:10:15.541 | [] | ERROR | LoggingFailureAnalysisReporter | (    40) | 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2020-09-30 | 14:12:13.590 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 3084 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:12:13.592 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:12:13.633 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:12:13.633 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:12:14.160 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:12:14.166 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:12:14.166 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:12:14.217 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:12:14.217 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 583 ms
+2020-09-30 | 14:12:14.330 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:12:14.435 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:12:14.458 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:12:14.466 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 1.113 seconds (JVM running for 1.655)
+2020-09-30 | 14:12:21.646 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:12:21.646 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:12:21.650 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 4 ms
+2020-09-30 | 14:12:21.661 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:19:50.823 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:21:34.810 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 7192 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:21:34.812 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:21:34.848 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:21:34.848 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:21:35.411 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:21:35.416 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:21:35.417 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:21:35.465 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:21:35.465 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 617 ms
+2020-09-30 | 14:21:35.558 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:21:35.635 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:21:35.657 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:21:35.669 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 1.069 seconds (JVM running for 1.538)
+2020-09-30 | 14:21:37.897 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:21:37.898 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:21:37.901 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 3 ms
+2020-09-30 | 14:21:37.910 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:21:39.916 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:21:40.782 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:21:50.248 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:22:09.393 | [] |  INFO | StorageAppApplication          | (    55) | Starting StorageAppApplication on DESKTOP-UL9U8E0 with PID 16196 (D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app\target\classes started by Admin in D:\Programowanie\Bootcamp\PracaDomowaOstatnia\storage-app)
+2020-09-30 | 14:22:09.395 | [] |  INFO | StorageAppApplication          | (   651) | No active profile set, falling back to default profiles: default
+2020-09-30 | 14:22:09.433 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-09-30 | 14:22:09.433 | [] |  INFO | DevToolsPropertyDefaultsPostProcessor | (   225) | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-09-30 | 14:22:09.879 | [] |  INFO | TomcatWebServer                | (   108) | Tomcat initialized with port(s): 8080 (http)
+2020-09-30 | 14:22:09.887 | [] |  INFO | StandardService                | (   173) | Starting service [Tomcat]
+2020-09-30 | 14:22:09.888 | [] |  INFO | StandardEngine                 | (   173) | Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-09-30 | 14:22:09.940 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring embedded WebApplicationContext
+2020-09-30 | 14:22:09.941 | [] |  INFO | ServletWebServerApplicationContext | (   285) | Root WebApplicationContext: initialization completed in 508 ms
+2020-09-30 | 14:22:10.055 | [] |  INFO | ThreadPoolTaskExecutor         | (   181) | Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-30 | 14:22:10.129 | [] |  INFO | OptionalLiveReloadServer       | (    58) | LiveReload server is running on port 35729
+2020-09-30 | 14:22:10.152 | [] |  INFO | TomcatWebServer                | (   220) | Tomcat started on port(s): 8080 (http) with context path '/api/v1'
+2020-09-30 | 14:22:10.160 | [] |  INFO | StorageAppApplication          | (    61) | Started StorageAppApplication in 0.952 seconds (JVM running for 1.377)
+2020-09-30 | 14:22:13.592 | [] |  INFO | [/api/v1]                      | (   173) | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-30 | 14:22:13.593 | [] |  INFO | DispatcherServlet              | (   525) | Initializing Servlet 'dispatcherServlet'
+2020-09-30 | 14:22:13.596 | [] |  INFO | DispatcherServlet              | (   547) | Completed initialization in 3 ms
+2020-09-30 | 14:22:13.605 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:22:15.870 | [] |  INFO | LocalFileService               | (   157) | Deleted file: {}chujkurwa.txt
+2020-09-30 | 14:22:48.645 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:22:52.402 | [] |  INFO | LocalFileService               | (   157) | Deleted file: {}test1.txt
+2020-09-30 | 14:23:37.399 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:42:00.829 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:45:04.508 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:45:20.801 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
+2020-09-30 | 14:45:24.426 | [] |  INFO | LocalFileService               | (   107) | Try to get all files
